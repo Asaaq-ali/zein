@@ -1,1 +1,1 @@
-worker: python3 vambir
+worker: bash Rose
